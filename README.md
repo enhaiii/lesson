@@ -35,3 +35,6 @@ npm -v
    26  cd lesson
    27  git push -u origin master
    28  history
+
+   для strapi:
+    npx create-strapi-app gigi --quickstart
